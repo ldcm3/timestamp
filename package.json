@@ -6,7 +6,9 @@
   "author": "Mostafa Eweda <mo.eweda@gmail.com>",
   "dependencies": {
     "async": "~0.2.8",
+    "body-parser": "^1.16.0",
     "express": "^3.2.6",
+    "moment": "^2.17.1",
     "socket.io": "~0.9.14"
   },
   "scripts": {
